@@ -18,4 +18,4 @@ This repository contains:
 
 Feel free to reach out to me on any of the links mentioned in my profile
 
-Creative Commons © 2022 by Abdulkader Sardini
+Copyright © 2022 by Abdulkader Sardini
