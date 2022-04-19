@@ -2,6 +2,8 @@
 // It must receive:
 // 1. The student names and ID numbers [database].
 // 2. The list of scrambled names which you intend to find the ID numbers for.
+// Both files must be in the same directory as the executable.
+// If you're running this code in a compiler, place the files in the same folder as your project.
 // File (1) must be in comma separated (.csv) format
 // This program makes it easy to list the ID numbers for every different student/person
 // instead of looking for every single person, copying their ID, and pasting it in the scrambled list yourself
