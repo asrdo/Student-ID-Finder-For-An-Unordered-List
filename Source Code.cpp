@@ -106,9 +106,7 @@ int getNum()
 
 	int num;
 
-	cout << "Please enter the number of total students.\n";
-
-	cout << "It must match the number of students both lists => ";
+	cout << "Please enter the number of total students in your list =>";
 
 	cin >> num;
 
