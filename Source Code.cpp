@@ -1,13 +1,14 @@
-//This is a simple program that determines the matric numbers for a scrambled list of students
-//It must receive:
-//1. A comma separated file (.csv) containing the student names and matric numbers [data]
-//2. A comma separated file (.csv) containing the list of scrambled student names which
-//you want to find the matric numbers for
-//This program makes it easy to list the matric number for every different student
-//instead of looking for each student, then copy and paste their numbers yourself
+// This is a simple program that determines the ID numbers for a scrambled list of students/people.
+// It must receive:
+// 1. The student names and ID numbers [database].
+// 2. The list of scrambled names which you intend to find the ID numbers for.
+// File (1) must be in comma separated (.csv) format
+// This program makes it easy to list the ID numbers for every different student/person
+// instead of looking for every single person, copying their ID, and pasting it in the scrambled list yourself
 
-//Program fully coded by Abdulkader Sardini
-//sardini@graduate.utm.my
+// Program fully coded by Abdulkader Sardini
+// Email: sardini@graduate.utm.my
+// All rights reserved
 
 #include <iostream>
 #include <fstream>
@@ -74,7 +75,7 @@ void screen()
 {
 	cout << "*************************************************************************************\n";
 
-	cout << "This program is coded and brought to you by ABDULKADER SARDINI. All rights reserved ©\n";
+	cout << "This program is coded and brought to you by ABDULKADER SARDINI. All rights reserved Â©\n";
 
 	cout << "*************************************************************************************\n";
 
