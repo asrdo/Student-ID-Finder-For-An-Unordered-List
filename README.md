@@ -13,7 +13,7 @@ You are free to download and experiment with this code as you wish, and suggest 
 
 This repository contains:
 1. The main executable file.
-2. The two example input files.
+2. The two example input files. (Note that, in the attached example files, the number of entries is 80 people, but the program can handle an unlimited number of people)
 3. The source code. 
 
 Feel free to reach out to me on any of the links mentioned in my profile
