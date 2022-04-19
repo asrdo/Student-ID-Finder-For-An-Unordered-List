@@ -3,7 +3,9 @@ This program finds the student IDs for a list of scrambled student names.
 
 The program receives 2 files:
 1. A comma-separated dataset (.csv file) consisting of two entries, the student names and their IDs. (This is the database of the program)
-2. The list of scrambled student names that you want to find the IDs for. 
+2. The list of scrambled student names that you want to find the IDs for.
+
+Both files must be in the same directory as the executable. If you're running this code in a compiler, place the files in the same folder as your project
 
 This program will return a (.csv) file containing the list of scrambled student names along with their IDs that the program found.
 
